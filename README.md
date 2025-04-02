@@ -5,4 +5,4 @@
   <p><b>Grid Map Design</b>: Ivan Dianov
   <p><b>Grid Map Dataset</b>: Roman Vlasov (https://spbroma.github.io/grid_map/plain)
 
-![alt text](Number_of_students_Subplots_Line_Chart.png)
+![alt text](Upper_Secondary_Transition_Rates.png)
